@@ -1,6 +1,14 @@
 # crypto_ticker
 A simple DIY project for a portable crypto ticker
 
+# Hardware Components
+- 1 xRaspberry Pi Pico 2 W with Header
+- 1 x Waveshare 2.66inch E-Paper E-Ink Display Module (B), 296x152, Red / Black / White, SPI
+- 1 x 40P 10 cm dupont wire male to male jumper Breadboard Wires
+- 2 x Black 4Pin SMT Tactile Tack Push Button
+- 1 x 400 point breadboard
+- Li-Po 3.7V 550mAh Rechargeable Battery
+- DiP-Pi PICO Power Master
 
 ## Links
 
