@@ -1,4 +1,4 @@
-# crypto_ticker
+# Pico Crypto Ticker
 A simple DIY project for a portable crypto ticker
 
 # Hardware Components
