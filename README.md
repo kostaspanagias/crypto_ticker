@@ -22,3 +22,6 @@ A simple DIY project for a portable crypto ticker
 
 ### Waveshare
 - https://www.waveshare.com/wiki/Pico-ePaper-2.66-B
+
+## Notes
+Power Master should be connected in the end, after testing everything works fine (test pico, screen & buttons on usb power and ensure everything is working fine). When Power Master is connected to the Pico, the USB does not transmit data (only power).
